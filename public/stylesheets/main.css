@@ -1,0 +1,27 @@
+.add {
+    color: #DC7171;
+    background-color: #F9F7F7;
+    font-size: 40px
+ }
+
+ span{
+     color: #597C2C;
+     font-style: italic;
+     font-size: 30px
+ }
+
+  
+button{
+    color: #E8A814;
+}
+
+nav{
+    color: #4D3703;
+    font-size: 40px
+}
+form{
+    font-size: 20px
+}
+input {
+    width: 80%;
+}
